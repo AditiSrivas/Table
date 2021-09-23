@@ -12,7 +12,7 @@ public class Solution {
         bufferedReader.close();
         for(int i=1;i<=10;i++)
         {
-            System.out.println(n+" "+"x"+" "+i+" "+"= "+ (ni));
+            System.out.println(n+" "+"x"+" "+i+" "+"= "+ (n*i));
         }
     }
 }
